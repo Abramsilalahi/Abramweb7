@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+	<style>
+		body{
+			background-color: gold;
+		}
+		.kotak1{
+			background-color: pink;
+			height: 350px;
+		}
+		.green{
+			background-color: lime;
+			display: inline-block;
+			margin: 5px;
+			width: 619px;
+			height: 50px;
+		}
+		.kotak4{
+			background-color: cyan;
+			height: 120px;
+	</style>
+	<body>
+		<div class="kotak1"><img src="gambar/santo thomas 1 medan.jpg" height="350" width="1898">.</div>
+		<div class="green"><center><a href="file:///C:/Users/Asus/Documents/Abram%207-D/semester%202/pertemuan1.html">Information</a></center></div>
+		<div class="green"><center><a href="file:///C:/Users/Asus/Documents/Abram%207-D/semester%202/pertemuan6.html">Gallery</a></center></div>
+		<div class="green"><center><a href="file:///C:/Users/Asus/Documents/Abram%207-D/semester%202/pertmuan3.html">Contact us</a></center></div>
+		<div class="kotak4">.</div>
+	</body>
+</html>
